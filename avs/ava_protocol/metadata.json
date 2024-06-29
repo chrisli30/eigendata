@@ -1,7 +1,7 @@
 {
   "name": "Ava Protocol",
   "website": "https://avaprotocol.org",
-  "description": "An intent-centric Eigenlayer AVS empowering Autonomous, Private, and Composable transactions for Ethereum and beyond.",
-  "logo": "https://raw.githubusercontent.com/AvaProtocol/eigendata/main/avs/oak/logo.png",
-  "twitter": "https://twitter.com/oak_network"
+  "description": "An event-driven EigenLayer AVS empowering private autonomous super-transactions for Ethereum and beyond.",
+  "logo": "https://raw.githubusercontent.com/AvaProtocol/eigendata/main/avs/ava_protocol/logo.png",
+  "twitter": "https://twitter.com/ava_protocol"
 }
