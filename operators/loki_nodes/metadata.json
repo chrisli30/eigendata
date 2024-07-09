@@ -1,7 +1,7 @@
 {
   "name": "LokiNodes",
-  "website": "https://forgelab.io/",
+  "website": "https://avaprotocol.org",
   "description": "LokiNodes is run by a group of blockchain developers from a Blockchain R&D Studio",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/chrisli30/eigendata/main/operators/loki_nodes/lokinodes.png",
   "twitter": "https://x.com/chrisli2046"
 }
